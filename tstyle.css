@@ -1,0 +1,15 @@
+body{
+    height:300px;
+    width: 300px;
+    background-color:rgb(229, 193, 238);
+    
+    
+}
+table{
+    background-color: aqua;
+    height: 520px;
+    width: 1340px;
+}
+h2{
+    text-align: left;
+}
